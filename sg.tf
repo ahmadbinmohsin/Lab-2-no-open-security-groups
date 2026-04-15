@@ -15,6 +15,6 @@ resource "null_resource" "example" {
         protocol    = "-1"
         cidr_blocks = ["10.0.0.0/16"]
       }]
-    })
+  })
   }
 }
