@@ -16,5 +16,4 @@ resource "null_resource" "example" {
         cidr_blocks = ["10.0.0.0/16"]
       }]
   })
-  }
-}
+  }}
